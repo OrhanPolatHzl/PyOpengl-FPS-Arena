@@ -1,6 +1,6 @@
 <div align="center">
 
-# PYOPENGL FPS ARENA
+# PyOpengl FPS Demo
 
 **A compact first-person graphics playground built with Python, OpenGL 3.3 and Dear ImGui.**
 
