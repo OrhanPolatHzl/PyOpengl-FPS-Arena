@@ -1,0 +1,3 @@
+# Default UI backend: Dear ImGui Bundle.
+-r requirements-core.txt
+imgui-bundle>=1.92.0,<2

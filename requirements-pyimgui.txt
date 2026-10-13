@@ -1,0 +1,3 @@
+# Alternative UI backend, not needed when imgui-bundle is installed.
+-r requirements-core.txt
+imgui[glfw]>=2.0,<3
